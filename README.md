@@ -10,7 +10,7 @@
 
 #### Contexto
 
-Los MOOCs (cursos masivos abiertos y en línea, por sus siglas en inglés) han revolucionado el mundo de la educación desde principios de la década pasada, ofreciendo acceso a contenido de calidad y práctico desde la comodidad del hogar. En este contexto, muchas plataformas ofrecen cursos gratuitos y de pago, compitiendo por captar y retener a la mayor cantidad de clientes.
+Los MOOCs (cursos masivos abiertos y en línea, por sus siglas en inglés) han revolucionado el mundo de la educación desde principios de la década pasada, ofreciendo acceso a contenido de calidad y práctico desde la comodidad del hogar. En este contexto, muchas plataformas ofrecen cursos gratuitos y pagos, compitiendo por captar y retener a la mayor cantidad de clientes.
 
 En este proyecto, nos encontramos trabajando para una startup de tecnología que desea ingresar al mercado de los cursos en línea. Para tomar decisiones estratégicas, la empresa ha adquirido conjuntos de datos de posibles competidores y nos ha asignado el rol de analizar y sacar conclusiones a partir de estos datos.
 
